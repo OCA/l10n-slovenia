@@ -24,9 +24,9 @@
         "data/account.chart.template.csv",
         "data/account.account.tag.csv",
         "data/account.tax.template.csv",
-        "data/account.fiscal.position.template.xml",
-        "data/account.fiscal.position.account.template.xml",
-        "data/account.fiscal.position.tax.template.xml",
+        "data/account.fiscal.position.template.csv",
+        "data/account.fiscal.position.account.template.csv",
+        "data/account.fiscal.position.tax.template.csv",
         "data/res.bank.xml",
         # "data/account_chart_template_data.yml"
     ],
